@@ -1,5 +1,9 @@
 <h1 align="center">What's Cooking with Atlas Search</h1>
 
+source https://www.mongodb.com/developer/products/atlas/atlas-search-demo-restaurant-app/?utm_campaign=atlas-search-demo-app
+
+source https://github.com/mongodb-developer/whatscooking
+
 <h2 align="center">A Restaurant Finder Application Demo MongoDB Atlas Search</h2>
 <p>Hello! 👋 This application allows you to search lightning fast through over 25,000 restaurants in the New York city area based on a variety of search parameters and data types:</p>
 <ul>
